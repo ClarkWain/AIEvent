@@ -7,11 +7,16 @@
 - 5月4日，加州大学伯克利分校的研究人员发布了OpenLLaMA-7B模型的预览版，这是Meta的LLaMA语言模型的开源替代品。该模型已经在RedPajama数据集上进行了训练。该模型可以用于商业目的。
 
 ## 2023年4月
+
 - 4月29日，在被意大利数据监管当局勒令下线近一个月后，ChatGPT已经在该国恢复服务。
+
+- 4月28日，Stable Diffusion的开发团队StabilityAI发布了[DeepFloyd IF](https://stability.ai/blog/deepfloyd-if-text-to-image-model)模型，该模型最大的特点是，可以把文字融入的图片上。比如你想在一个霓虹灯招牌上写上“Welcome”，它就能把文字以合适的字体、风格、排版放在招牌上，而不是像之前的模型那样画出一些乱七八糟的符号。
 
 - 近日，GPT4Free项目突然火爆，它提供免费访问GPT-4和GPT-3.5的服务，通过逆向OpenAI API实现。该项目并没有绕过OpenAI的付费机制，而是通过欺骗OpenAI API来获取无限制的访问。成本仍由使用GPT4Free服务的网站承担。此外，GPT4Free还提供了针对不同提示注入攻击的快捷方式，可以以OpenAI不希望的方式运行GPT-3.5和GPT-4。
 
 - 近日，ChatGPT 引入关闭聊天记录功能，企业订阅版即将推出。
+
+- 4月26日，MosaicML宣布称，使用不同50,000美元就可以从头开始训练稳定扩散（Stable Diffusion）模型，并大大降低了成本。[链接](https://www.mosaicml.com/blog/training-stable-diffusion-from-scratch-part-2)
 
 - Hugging Face 新发布了对话式 AI 产品 [HuggingChat](https://huggingface.co/chat/)，旨在成为 ChatGPT 的开源替代。该产品基于 Open Assistant 大语言模型搭建，拥有30B的参数，并支持中文对话与编写代码。不过，暂时不支持中文回复。用户可以通过Web界面与其进行交互，也可使用 Hugging Face 的 API 与现有应用程序和服务集成。除此之外，HuggingChat 还可以编写代码、起草电子邮件和创作内容等功能。
 
