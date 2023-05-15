@@ -1,5 +1,7 @@
 ## 2023年5月
 
+- 5月15日，近来，华人团队开源了多模态基础模型InstructBLIP，是从BLIP2模型微调而来的模型。据介绍，InstructBLIP模型更擅长「看」、「推理」和「说」，即能够对复杂图像进行理解、推理、描述，还支持多轮对话等，相比于GPT-4、LLaVA、MiniGPT-4，InstructBLIP 的响应比 GPT-4 更全面，比 LLaVA 更直观，比 MiniGPT-4 更合乎逻辑。 [链接](https://github.com/salesforce/LAVIS/tree/main/projects/instructblip)
+
 - 5月13日，OpenAI发推文称，将在下周向所有ChatGPT Plus 用户推出网络浏览和插件！从alpha 到 Beta，它们将允许ChatGPT 访问互联网并使用70多个第三方插件。
 
 - 5月12日，据科创部日报，谷歌将确保公司的每一张AI生成图片都内嵌标记，这种图片在原始文件中都将有一个相关标记，提醒该图片由AI生成。未来几个月内，Shutterstock、Midjourney等将支持这种新的标记方法。
