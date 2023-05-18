@@ -1,5 +1,13 @@
 ## 2023年5月
 
+- 5月18日，Stability AI发布了DreamStudio的开源版本——StableStudio。在 StableStudio 中，用户可以使用该公司最新的 Stable Diffusion XL 图像生成器和 StableLM 语言模型。Stability AI 目前还在为 StableLM 开发 StableVicuna 聊天界面，最终也会将其添加到 StableStudio 中。
+
+- 5月17日，OpenAI首席执行官Sam Altman呼吁美国国会为先进人工智能系统制定许可和安全标准，目前两党议员正开始推动对消费者使用的强大新人工智能工具进行监管。
+
+- 5月17日，小冰公司宣布启动“GPT克隆人计划”，首批限制300个名额，最短只要采集三分钟数据，即可创造源于本人性格、技能、声音、外貌的AI克隆人。同时将提供平台，便于本人把认证的克隆人，有偿或无偿提供给自己的受众。
+
+- 5月16日，Midjourney官方中文版已经开启内测申请，其将搭载在QQ频道上，每周一、周五下午6点统一开放，达到一定人数后会关闭入口，用户扫描相关二维码即可加入。
+
 - 5月15日，近来，华人团队开源了多模态基础模型InstructBLIP，是从BLIP2模型微调而来的模型。据介绍，InstructBLIP模型更擅长「看」、「推理」和「说」，即能够对复杂图像进行理解、推理、描述，还支持多轮对话等，相比于GPT-4、LLaVA、MiniGPT-4，InstructBLIP 的响应比 GPT-4 更全面，比 LLaVA 更直观，比 MiniGPT-4 更合乎逻辑。 [链接](https://github.com/salesforce/LAVIS/tree/main/projects/instructblip)
 
 - 5月13日，OpenAI发推文称，将在下周向所有ChatGPT Plus 用户推出网络浏览和插件！从alpha 到 Beta，它们将允许ChatGPT 访问互联网并使用70多个第三方插件。
