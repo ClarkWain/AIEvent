@@ -1,5 +1,7 @@
 ## 2023年5月
 
+- 5月18日，据外媒Ghacks 报道，微软即将提供“无需身份验证”的 Bing chat 功能—— 用户即使不登陆 Microsoft 帐号，也可以在Edge 浏览器中与Bing 进行对话。
+
 - 5月18日，Stability AI发布了DreamStudio的开源版本——StableStudio。在 StableStudio 中，用户可以使用该公司最新的 Stable Diffusion XL 图像生成器和 StableLM 语言模型。Stability AI 目前还在为 StableLM 开发 StableVicuna 聊天界面，最终也会将其添加到 StableStudio 中。
 
 - 5月17日，OpenAI首席执行官Sam Altman呼吁美国国会为先进人工智能系统制定许可和安全标准，目前两党议员正开始推动对消费者使用的强大新人工智能工具进行监管。
