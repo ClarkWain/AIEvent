@@ -1,5 +1,11 @@
 ## 2023年5月
 
+- 5月20日，来自谷歌、MIT和宾夕法尼亚大学等大型公司和机构的研究人员发布了一篇论文，介绍了一种新的AI图像编辑应用程序DragGAN。用户可以通过拖动图像的两个主要组件来进行编辑，例如改变一个人脸上的表情或让一只狮子看起来在咆哮。与Adobe的Photoshop Warp工具类似，但这项新的AI工具能够重新生成未曾存在的图像区域，而不仅仅是简单地拉伸像素。该项目可能在6月份开源。
+
+- 5月19日，Google表示将在Google Colab内置AI编程助手——Codey。Codey能实现如代码补全、自然语言到代码生成等功能，还有一个代码辅助聊天机器人。该功能将首先向美国用户推出，在未来几个月 Google 将会把这个功能扩展到免费用户，以及更多国家和地区。
+
+- 5月18日，人工智能研究公司OpenAI在官网宣布，在美国推出了适用于iOS的ChatGPT应用程序，并表示“未来几周”将扩展到其他国家。该APP可免费下载，OpenAI表示支持安卓系统(Android)的App应该“很快”会到来。
+
 - 5月18日，据外媒Ghacks 报道，微软即将提供“无需身份验证”的 Bing chat 功能—— 用户即使不登陆 Microsoft 帐号，也可以在Edge 浏览器中与Bing 进行对话。
 
 - 5月18日，Stability AI发布了DreamStudio的开源版本——StableStudio。在 StableStudio 中，用户可以使用该公司最新的 Stable Diffusion XL 图像生成器和 StableLM 语言模型。Stability AI 目前还在为 StableLM 开发 StableVicuna 聊天界面，最终也会将其添加到 StableStudio 中。
