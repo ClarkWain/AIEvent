@@ -1,5 +1,7 @@
 ## 2023年5月
 
+- 5月20日，SambaNova和Together合作推出了BLOOMChat，这是一个可用于研究和商业用途的1760亿参数的多语言聊天大型语言模型。BLOOMChat是在SambaNova RDUs上训练的，旨在填补开源多语言聊天LLM的空白。与主流开源聊天LLM相比，在六种语言中获得66%的偏好度，表现出强大的性能，尤其在WMT翻译任务中领先于其他模型。它还经过了英语数据的微调，使非英语语言的聊天质量有了显著提高。BLOOMChat现已上线，并且可以在HuggingFace进行在线聊天。[链接](https://sambanova.ai/blog/introducing-bloomchat-176b-the-multilingual-chat-based-llm/)
+
 - 5月20日，来自谷歌、MIT和宾夕法尼亚大学等大型公司和机构的研究人员发布了一篇论文，介绍了一种新的AI图像编辑应用程序DragGAN。用户可以通过拖动图像的两个主要组件来进行编辑，例如改变一个人脸上的表情或让一只狮子看起来在咆哮。与Adobe的Photoshop Warp工具类似，但这项新的AI工具能够重新生成未曾存在的图像区域，而不仅仅是简单地拉伸像素。该项目可能在6月份开源。
 
 - 5月19日，Google表示将在Google Colab内置AI编程助手——Codey。Codey能实现如代码补全、自然语言到代码生成等功能，还有一个代码辅助聊天机器人。该功能将首先向美国用户推出，在未来几个月 Google 将会把这个功能扩展到免费用户，以及更多国家和地区。
