@@ -1,5 +1,7 @@
 ## 2023年5月
 
+- 5月25日，以报道称，TikTok正测试一款AI聊天机器人Tako，该工具可与用户交流短视频相关问题，并帮助他们发现内容。
+
 - 5月25日，Adobe官网公告开始测试AI工具Generative Fill，用户仅需要输入文字内容，就可以对图片进行创作，包括增加、删减、精修等操作。
 
 - 5月24日，微软在Build大会宣布推出Windows Copilot，将 Bing/ChatGPT 接入 Win11，可在任务栏中直接使用。WindowsCopilot 可以更改 Windows 设置、使用 Snap Layouts 重新排列窗口、总结和重写拖入其中的文档，以及打开 Spotify、Adobe Express 和 Teams 等应用程序的一系列操作。另外，Windows Terminal 将集成 GitHub Copilot X，帮助开发者高效完成任务。
