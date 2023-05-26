@@ -1,5 +1,9 @@
 ## 2023年5月
 
+- 5月26日，Opera Software 宣布将 AI 助手 “Aria” 集成到其网络浏览器中。 Aria 基于 OpenAI 技术，Aria 对 ChatGPT 的实现包括实时搜索互联网的能力，这点和 Bing Chat 相似。
+
+- 5月25日，人工智能初创公司Anthropic近日宣布获得了最新一轮4.5亿美元的融资，本轮投资方包含谷歌等。Anthropic由OpenAI前高管创立，现已成为除了OpenAI（113亿美元）之外最有钱的AI初创公司。
+
 - 5月25日，以报道称，TikTok正测试一款AI聊天机器人Tako，该工具可与用户交流短视频相关问题，并帮助他们发现内容。
 
 - 5月25日，Adobe官网公告开始测试AI工具Generative Fill，用户仅需要输入文字内容，就可以对图片进行创作，包括增加、删减、精修等操作。
