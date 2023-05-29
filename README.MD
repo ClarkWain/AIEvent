@@ -1,5 +1,7 @@
 ## 2023年5月
 
+- 5月27日，面壁智能联合知乎在2023中国国际大数据产业博览会上发布了最新的大语言模型——CPM-Bee 10B，并推出对话类模型产品“露卡（Luca）”。这是双方继“知海图AI”后的第二个大模型。该模型在中文ZeroCLUE评测基准中大幅超越同类模型，并且英文能力也达到了LLaMa的水准。该模型还支持多模态输入，而且还将开源，可以商用。
+
 - 5月26日，Opera Software 宣布将 AI 助手 “Aria” 集成到其网络浏览器中。 Aria 基于 OpenAI 技术，Aria 对 ChatGPT 的实现包括实时搜索互联网的能力，这点和 Bing Chat 相似。
 
 - 5月25日，人工智能初创公司Anthropic近日宣布获得了最新一轮4.5亿美元的融资，本轮投资方包含谷歌等。Anthropic由OpenAI前高管创立，现已成为除了OpenAI（113亿美元）之外最有钱的AI初创公司。
@@ -7,6 +9,8 @@
 - 5月25日，以报道称，TikTok正测试一款AI聊天机器人Tako，该工具可与用户交流短视频相关问题，并帮助他们发现内容。
 
 - 5月25日，Adobe官网公告开始测试AI工具Generative Fill，用户仅需要输入文字内容，就可以对图片进行创作，包括增加、删减、精修等操作。
+
+- 5月24日，英伟达发布了最新财报，当季营收71.9亿美元，环比增长19%，超越了华尔街的预测，股价大涨25%，市值逼近1万亿美元。
 
 - 5月24日，微软在Build大会宣布推出Windows Copilot，将 Bing/ChatGPT 接入 Win11，可在任务栏中直接使用。WindowsCopilot 可以更改 Windows 设置、使用 Snap Layouts 重新排列窗口、总结和重写拖入其中的文档，以及打开 Spotify、Adobe Express 和 Teams 等应用程序的一系列操作。另外，Windows Terminal 将集成 GitHub Copilot X，帮助开发者高效完成任务。
 
