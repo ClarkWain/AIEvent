@@ -1,5 +1,9 @@
 ## 2023年5月
 
+- 5月29日，AI芯片大厂NVIDIA（英伟达）CEO黄仁勋在COMPUTEX 2023展前发布会上，正式发布了全新的GH200 Grace Hopper超级芯片，以及基于NVIDIA NVLink Switch System 驱动的拥有256个GH200超级芯片的NVIDIA DGX GH200超级计算机，旨在助力开发面向生成式AI语言应用、推荐系统和数据分析工作负载的巨型、下一代模型。此前的 DGX A100 系统只能将八个 A100 GPU 联合起来作为一个单元，DGX GH200可将256个GH200超级芯片和高达144TB的共享内存连接成一个单元，这将可支持数万亿参数AI大模型训练。
+
+- 5月29日，英伟达宣布为游戏提供定制化AI模型代工服务Avatar Cloud Engine。据悉，该模型通过AI技术，让游戏NPC变得更加智能，能够进行自然语言交互，从而改变游戏体验。[链接](https://developer.nvidia.cn/zh-cn/nvidia-omniverse-platform/ace?ncid=so-pr-509266)
+
 - 5月27日，面壁智能联合知乎在2023中国国际大数据产业博览会上发布了最新的大语言模型——CPM-Bee 10B，并推出对话类模型产品“露卡（Luca）”。这是双方继“知海图AI”后的第二个大模型。该模型在中文ZeroCLUE评测基准中大幅超越同类模型，并且英文能力也达到了LLaMa的水准。该模型还支持多模态输入，而且还将开源，可以商用。[链接](https://huggingface.co/openbmb/cpm-bee-10b)
 
 - 5月26日，Opera Software 宣布将 AI 助手 “Aria” 集成到其网络浏览器中。 Aria 基于 OpenAI 技术，Aria 对 ChatGPT 的实现包括实时搜索互联网的能力，这点和 Bing Chat 相似。
