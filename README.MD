@@ -1,5 +1,11 @@
 ## 2023年6月
 
+- 6月14日，日前微软研究人员展示了 LLaVA-Med 模型，该模型主要用于生物医学方面的研究，可根据 CT、X 光图片等推测出患者的病理状况。微软研究人员与一批医院合作，获得了使用生物医学图像文本对应大型数据集来训练多模态 AI 模型。该数据集包括胸部 X 光、MRI、组织学、病理学和 CT 图像等，覆盖范围相对全面。
+
+- 6月14日，商汤科技正式推出专为学习围棋的青少年而设计的“元萝卜SenseRobot”AI下棋机器人围棋版。
+
+- 6月13日，OpenAI发布gpt-3.5 turbo和gpt-4的函数调用和其他API更新，包括更多可控制的API模型、功能调用能力、更长的上下文和更低的价格。其中，嵌入模型成本降低了75%；gpt-3.5-turbo的tokens输入成本降低25%。
+
 - 6月13日，近日，Meta发布了新的音乐生成模型——MusicGen，其源码和模型权重已经发布到Github。该模型基于Transformer模型，它可以根据Prompt生成一段音乐，同时还可以把一段音乐转换成其它流派的风格，例如把贝多芬的《欢乐颂》变成摇滚风格。MusicGen与谷歌MusicLM、Riffusion的对比[在这里](https://ai.honu.io/papers/musicgen/)。Github链接[在这里](https://github.com/facebookresearch/audiocraft)。
 
 - 6月13日，360正式推出AI新产品“360 AI数字人广场”，拥有200+虚拟数字人角色。
