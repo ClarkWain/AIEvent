@@ -1,6 +1,6 @@
 ## 2023年6月
 
-- 6月21日，最近，来自加州大学伯克利分校的研究者开源了一个项目 vLLM，该项目主要用于快速 LLM 推理和服务。vLLM 的核心是 PagedAttention，这是一种新颖的注意力算法，它将在操作系统的虚拟内存中分页的经典思想引入到 LLM 服务中。vLLM 比 HuggingFace Transformers 提供高达 24 倍的吞吐量，而无需任何模型架构更改。
+- 6月21日，最近，来自加州大学伯克利分校的研究者开源了一个项目 vLLM，该项目主要用于快速 LLM 推理和服务。vLLM 的核心是 PagedAttention，这是一种新颖的注意力算法，它将在操作系统的虚拟内存中分页的经典思想引入到 LLM 服务中。vLLM 比 HuggingFace Transformers 提供高达 24 倍的吞吐量，而无需任何模型架构更改。[链接](https://github.com/vllm-project/vllm)
 
 - 6月21日，近日，微软发布了一个只有 13 亿参数但具有大模型推理能力的开源小模型 Orca，它使用创新的训练方法，在一些任务上的综合表现略好于 ChatGPT，但明显落后于 GPT-4，比 Vicuna 高出 113%。目前，模型和权重还没有公开。[论文地址]：(https://arxiv.org/pdf/2306.02707.pdf)
 
